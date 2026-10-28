@@ -1,0 +1,16 @@
+domain,subdomain,category,folder,source,notes
+Vendor Integrations,Paradox,General / Other / API / SSO / Data Feed,02_KNOWLEDGE_BASE/01_VENDOR_INTEGRATIONS/PARADOX,Integration tracking sheet,"Includes mapping/payload updates, SSO issues, API migration, job feed, scrape setup, credential rotation, public API docs."
+Vendor Integrations,Workday,ATS,02_KNOWLEDGE_BASE/01_VENDOR_INTEGRATIONS/WORKDAY,Integration tracking sheet,"Includes ATS/HCM integration, new hire employee request, position report, integration design."
+Vendor Integrations,Paylocity,ATS,02_KNOWLEDGE_BASE/01_VENDOR_INTEGRATIONS/PAYLOCITY,Integration tracking sheet,"Includes ATS integrations, client permission blockers, API investigation, validation confirmation."
+Vendor Integrations,UKG Pro,ATS,02_KNOWLEDGE_BASE/01_VENDOR_INTEGRATIONS/UKG,Integration tracking sheet,Includes UKG bi-directional integration and ATS flow.
+Vendor Integrations,SuccessFactors,ATS / API Authentication,02_KNOWLEDGE_BASE/01_VENDOR_INTEGRATIONS/SUCCESSFACTORS,Integration tracking sheet,Includes OAuth 2.0 authentication and API authentication impact cases.
+Background Check,First Advantage / FADV,Background Check / API,02_KNOWLEDGE_BASE/06_BACKGROUND_CHECK/FADV,Integration tracking sheet,"Includes background check implementations, SIT cases, timeout/API troubleshooting."
+Background Check,Accurate,Background Check,02_KNOWLEDGE_BASE/06_BACKGROUND_CHECK/ACCURATE,Integration tracking sheet,"Includes vendor credential dependency, verification, and production move."
+Background Check,Sterling,Background Check,02_KNOWLEDGE_BASE/06_BACKGROUND_CHECK/STERLING,Integration tracking sheet,"Includes package ID setup, regional package logic, staging validation, production readiness."
+Background Check,Avvanz,Background Check,02_KNOWLEDGE_BASE/06_BACKGROUND_CHECK/AVVANZ,User requested domain,Prepared as a maintainable domain even if no current sheet rows were visible in exported worksheet.
+Assessments,Corvirtus,Assessment,02_KNOWLEDGE_BASE/07_ASSESSMENTS/CORVIRTUS,Integration tracking sheet,Includes assessment update cases and production readiness.
+Paradox Public API,Authentication,OAuth / Credentials / Token Flow,02_KNOWLEDGE_BASE/02_PARADOX_PUBLIC_API/authentication,Integration tracking sheet + readme.paradox.ai placeholder,Store only sanitized OAuth/client credential guidance. Do not store secrets.
+Paradox Public API,Endpoints,Candidate Status / Job Feed / Webhooks,02_KNOWLEDGE_BASE/02_PARADOX_PUBLIC_API/endpoints,Integration tracking sheet + readme.paradox.ai placeholder,"Includes candidate status API, job feed retrieve postings, webhook research, proxy domain update."
+SSO and IDP,SSO Provider / Metadata / Certificate,SSO,02_KNOWLEDGE_BASE/03_SSO_AND_IDP,Integration tracking sheet,"Includes SSO login error, provider change, IDP metadata, certificate update."
+Data Feed and Job Feed,SFTP / Scrape / Proxy Domain / Feed File,Data Feed,02_KNOWLEDGE_BASE/04_DATA_FEED_AND_JOB_FEED,Integration tracking sheet,"Includes SFTP job search, scrape production setup, job feed endpoint update."
+Mapping and Payload,Mapped Values / Payload Attributes / Journey Mapping,Mapping,02_KNOWLEDGE_BASE/08_MAPPING_AND_PAYLOAD,Integration tracking sheet,"Includes new mapped values, payload attributes, Professional/Frontline mapping, syntax fix."
