@@ -1,3 +1,13 @@
+---
+title: Paradox Public API 
+type: paradox_api
+status: verified
+owner: Thang Nguyen
+last_updated: 2026-10-28
+vendor: Paradox
+---
+
+
 # Paradox Developer Hub — Knowledge Base (Source of Truth for AI Agent)
 
 - **Source:** https://readme.paradox.ai/ (Paradox Developer Hub, API version v1.0)
